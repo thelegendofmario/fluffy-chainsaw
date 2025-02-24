@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "ti84pce",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Users\\Ethan\\Documents\\personal\\CEdev\\bin\\ez80-clang.exe",
+            "compilerArgs": [
+                "-Wall",
+                "-Wextra",
+                "-Oz"
+            ],
+            "includePath": [
+                "C:\\Users\\Ethan\\Documents\\personal\\CEdev\\include\\"
+            ]
+        }
+    ],
+    "version": 4
+}
